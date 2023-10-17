@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-title{
+    font-size: 80px;
+    color: #272727;
+}
+.header-paragraph{
+    font-family: 'Lato',
+    'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: #272727;
+}
+.btn-header{
+    padding: 25px 20px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    background-color: #E55473;
+    border-radius: 5px;
+}
