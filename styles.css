@@ -14,7 +14,7 @@ body{
     font-family: 'Lato',
     'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 18px;
-    color: #272727;
+    color: #646262;
     margin-top: 20px;
     margin-bottom: 20px ;
 }
@@ -36,4 +36,15 @@ body{
     margin-top: 20px;
     margin-bottom: 0px;
     padding: 0px;
+}
+.flowers-text{
+    text-align: center;
+    margin-top: 60px;
+}
+.flowerh{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.flowerp{
+    font-size: 18px;
 }
