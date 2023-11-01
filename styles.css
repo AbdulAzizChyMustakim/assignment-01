@@ -81,13 +81,33 @@ background: rgba(5, 151, 160, 0.15);
     width: 464px;
     height: 538px;}
 
-    .img-p3{
+ .img-p3{
         padding: 68px 80px 80px 80px;}
         .flower-name3{
             text-align: center;
             }
-            .flowers-type{
+  .flowers-type{
                 display: flex;
                 justify-content: space-around;
                 align-items: center;
-                margin-top: 50px;           }
+                margin-top: 50px; 
+              }
+ .featuerd-part{
+                 margin: 240px;
+                }
+   .easy-part{
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+                }
+        .easy-part{
+            margin: 240px;
+        }
+    .easy-part-contents{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 86px;
+    }
